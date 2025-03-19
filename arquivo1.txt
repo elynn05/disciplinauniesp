@@ -1,5 +1,5 @@
 Faculdade Uniesp
 Curso de Ciência da Computação 
-Elyaquim José do Nascimento Neves
-Disciplina: Tópicos Essenciais em Programação
+
+Respondendo a lista de exercício do GitHub
 
